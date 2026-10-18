@@ -203,7 +203,7 @@ and I can give you temporary read access.
 ## Contact
 
 - GitHub: [@Gabi-comm](https://github.com/Gabi-comm)
-- Email: <!-- add your preferred contact email -->
+- Email: gabrieljohnsolomon@gmail.com
 
 ---
 
