@@ -27,8 +27,13 @@ in rooms made for studying, brainstorming and shipping software.</p>
 
 ## Demo
 
-<!-- Replace the link below with your Loom or YouTube demo. -->
-**Video walkthrough:** _coming soon_
+<p align="center">
+  <a href="GABO_demo.mp4">
+    <img src="screenshots/home.png" alt="Watch the Gabo demo video" width="900" />
+  </a>
+  <br />
+  <strong><a href="GABO_demo.mp4">▶ Watch the demo video</a></strong>
+</p>
 
 ---
 
